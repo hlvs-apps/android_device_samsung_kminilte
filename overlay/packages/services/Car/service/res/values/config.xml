@@ -1,0 +1,7 @@
+
+<!-- Copied from https://github.com/snappautomotive/firmware-device_samsung_gts4lvaaos/commit/af84d711eb917c2ea117afad20cea7d6a5353655#diff-d7348ae9b7f2db612d4660e7cc20debaed7db66515f0437cd02d4625f5a16768 -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- No notice screen on startup --> 
+  <string name="config_userNoticeUiService" translatable="false"></string>
+</resources>

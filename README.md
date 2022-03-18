@@ -1,4 +1,6 @@
 
+This is an unofficial Android Automotive OS target for the Samsung Galaxy S5 mini SM-G800F based on Lineage 15.1 build by cm-3470  and ![Snappautomotive Builds for the Galaxy Tab S5e](https://github.com/snappautomotive/firmware-device_samsung_gts4lvaaos).
+
 # Device configuration for Samsung Galaxy S5 mini SM-G800F (kminilte)
 
 ## Spec Sheet
