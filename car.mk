@@ -34,6 +34,3 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES := \
 
 # Additional selinux policy
 BOARD_SEPOLICY_DIRS += device/generic/car/common/sepolicy
-
-$(call inherit-product, packages/services/Car/evs/sepolicy/evs.mk)
-$(call inherit-product, packages/services/Car/car_product/build/car.mk)
