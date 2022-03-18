@@ -1,6 +1,5 @@
-
-<!-- Copied from https://github.com/snappautomotive/firmware-device_samsung_gts4lvaaos/commit/af84d711eb917c2ea117afad20cea7d6a5353655#diff-e199c150d97c091bc62e53776cdf2ddcf344a8913d82a5b9a1d4a8f1215401e5-->
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Copied from https://github.com/snappautomotive/firmware-device_samsung_gts4lvaaos/commit/af84d711eb917c2ea117afad20cea7d6a5353655#diff-e199c150d97c091bc62e53776cdf2ddcf344a8913d82a5b9a1d4a8f1215401e5-->
 <resources>
     <!-- Don't try and run the set-up wizard -->
     <bool name="def_device_provisioned">true</bool>
